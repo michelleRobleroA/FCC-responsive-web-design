@@ -1,6 +1,6 @@
 # Project Title: Cafe Menu from FCC Responsive Web Design
 ---
-This app is to practice the most common html tags
+This app is to practice the most common html tags and learn some css
 
 # Description
 ---
